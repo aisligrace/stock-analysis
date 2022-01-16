@@ -6,7 +6,7 @@ The purpose of this project was to perform an analysis on a stock market excel w
 ## Results
 
 As previously mentioned, the end results between the original and refactored were the same. However, we were able to get faster results using the following. 
-(https://github.com/aisligrace/stock-analysis/blob/main/Screen%20Shot%202022-01-16%20at%205.50.02%20PM.png)
+
 
 ## Summary
 
